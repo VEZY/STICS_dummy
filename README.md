@@ -22,8 +22,8 @@ To download the data, you can either
 
  ``` r
  # install.packages("git2r")
- target_path= "path_to_download_folder"
- git2r::clone("https://github.com/VEZY/STICS_dummy", path)
+ target_path= "path_where_to_download_folder"
+ git2r::clone("https://github.com/VEZY/STICS_dummy", target_path)
  ```
 
 Description
