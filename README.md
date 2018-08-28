@@ -19,6 +19,7 @@ To download the data, you can either
 * Or direct download the [zip file here](https://github.com/VEZY/sticRs/archive/master.zip).
 
 * Or use the [git2r](https://github.com/ropensci/git2r) package from R:
+
  ``` r
  # install.packages("git2r")
  target_path= "path_to_download_folder"
