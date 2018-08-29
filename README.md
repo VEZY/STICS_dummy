@@ -14,9 +14,9 @@ To download the data, you can either
 * Clone it from the [Github repository](https://github.com/VEZY/STICS_dummy):
 
   ```
-  git clone https://github.com/VEZY/sticRs.git
+  git clone https://github.com/VEZY/STICS_dummy.git
   ```
-* Or direct download the [zip file here](https://github.com/VEZY/sticRs/archive/master.zip).
+* Or direct download the [zip file here](https://github.com/VEZY/STICS_dummy/archive/master.zip).
 
 * Or use the [git2r](https://github.com/ropensci/git2r) package from R:
 
