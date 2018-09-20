@@ -11,7 +11,7 @@ iplt0
 profsem
 3.00000
 densitesem
-140
+140.00000
 variete
 1
 codetradtec
@@ -29,7 +29,7 @@ nbjseuiltempref
 codestade
 1
 ilev
-380
+329
 iamf
 999
 ilax

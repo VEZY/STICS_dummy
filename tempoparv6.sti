@@ -120,11 +120,11 @@ engrais_pature
 3
 coef_calcul_doseN
 16.25
-P_code_calc_equi_density
-3
-P_hauteur_threshold
+code_calc_equi_density
+2
+hauteur_threshold
 0.2
-P_hauteur_threshold_2
+hauteur_threshold_2
 0.8
 P_eqdens_max
 240 240
@@ -133,6 +133,6 @@ P_code_shape
 P_hautK
 0.2350462 0.2350462
 P_hautA
-0.5695172 0.5695172
+0.57 0.57
 P_stage_const_height
 flo flo

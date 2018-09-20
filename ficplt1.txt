@@ -101,13 +101,13 @@ zracplantule
 phyllotherme
 120.00000
 bdens
-7
+7.00000
 laicomp
 0.30400
 hautbase
 0.00000
 hautmax
-1
+1.00000
 tcxstop
 100.00000
 codelaitr
@@ -119,7 +119,7 @@ pentlaimax
 udlaimax
 3.00000
 ratiodurvieI
-0.80000
+0.60000
 tcmin
 0.00000
 tcmax
@@ -171,7 +171,7 @@ codetransrad
 extin
 0.50000
 ktrou
-0.60000
+0.80000
 forme
 1
 rapforme
@@ -179,9 +179,9 @@ rapforme
 adfol
 1.50000
 dfolbas
-1
+1.00000
 dfolhaut
-2
+2.00000
 temin
 0.00000
 temax
@@ -209,7 +209,7 @@ tigefeuil
 envfruit
 0.30000
 sea
-20
+20.00000
 codeindetermin
 1
 nbjgrain
